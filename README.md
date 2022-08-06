@@ -21,3 +21,4 @@
 ```
 - Se debe configurar el php.init para el buen funcionanmiento del proyecto, se debe cambiar la siguiente opción `allow_url_include=Off` a `allow_url_include=On`
 - Por último reiniciar el servidor de PHP y luego desde un navegador ingresar a la página configurada http://localhost:port/directorio_principal/
+- la cónsulta que indica cuál es el producto con el stock más alto y la consulta que indica cuál es el producto más vendido se encuentran en la carpeta sql que se encuentra en el directorio principal
